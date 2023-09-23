@@ -1,0 +1,30 @@
+#imfree{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    color:black;
+    font-size: 35px;
+    position:fixed;
+    top: 20px;
+    left: 500px;
+    height: 25px;
+}
+
+button{
+    background-color: rgb(173, 40, 129);
+    border: none;
+    padding: 15px;
+    width: 20%;
+    border-radius: 10px;
+    color:white;
+    font-size: 15px;
+    cursor: pointer;
+    position:fixed;
+    bottom: 50px;
+    left: 550px;
+}
